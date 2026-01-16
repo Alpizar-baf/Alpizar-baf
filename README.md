@@ -1,4 +1,4 @@
-## Hi there 👋# Hi, I'm Brayan 👋 | Hola, soy Brayan 👋
+## Hi, I'm Brayan 👋 | Hola, soy Brayan 👋
 
 🎓 Software Engineering student | Estudiante de Ingeniería en Software  
 💻 Learning C programming and core software fundamentals  
